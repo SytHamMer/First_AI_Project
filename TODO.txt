@@ -9,4 +9,5 @@ score = (d-m)/t * k
 
 
 -travailler sur la génération aléatoire des mondes éviter mondes impossibles
--Pouvoir réutiliser une save de monde déjà généré
+
+
