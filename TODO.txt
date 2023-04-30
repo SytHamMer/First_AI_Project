@@ -1,0 +1,12 @@
+Départ arrivé si pas indiqué défini de base en méttant de le init depart = None
+gestion score (((avec distance entre départ et arrivé)-(distance mort arrivé))/temps mis) si arrivé score
+d = distance départ arrivé
+m = distance mort (distance mort, zone arrivé)
+t = temps mis (ms)
+k = constante pour valeur lisible
+score = (d-m)/t * k
+
+
+
+-travailler sur la génération aléatoire des mondes éviter mondes impossibles
+-Pouvoir réutiliser une save de monde déjà généré
