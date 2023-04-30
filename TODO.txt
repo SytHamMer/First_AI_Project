@@ -11,3 +11,4 @@ score = (d-m)/t * k
 -travailler sur la génération aléatoire des mondes éviter mondes impossibles
 
 
+-Tout retravailler en orienté objet notamment GAME  ET PLAYER avant de passer au Q LEARNING

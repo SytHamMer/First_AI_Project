@@ -25,8 +25,10 @@ class Level():
             self.end_y = tupleend[1]
         self.size =(20,20)
         self.lvl = np.zeros(self.get_size())
+        self.nbzones = (self.end_x+1)**2
         
-        
+    def get_nbzones(self):
+        return self.nbzones
     def get_size(self):
         return self.size
         

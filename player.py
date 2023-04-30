@@ -2,9 +2,7 @@
 
 class player:
     def __init__(self):
-        self.start_x= 0
-        self.start_y=0
-        self.x = 30
-        self.y=30
+        self.x = 0
+        self.y=0
         self.score=0
         
